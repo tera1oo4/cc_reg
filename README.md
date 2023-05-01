@@ -3,7 +3,7 @@ CyberConnect Coinlist registration
 ```javascript
 document.getElementsByClassName('c-button c-button--small c-button--gray js-notification_link js-analytic_track_link market-dashboard-notifications-notification_row__primary_link')[0].click();```
 
-```document.getElementsByClassName('c-button c-button--large cta-button register-buttons')[0].click();```
+'document.getElementsByClassName('c-button c-button--large cta-button register-buttons')[0].click();'
 
 ```document.getElementsByClassName('c-button c-button--large js-get_started_cta ht')[0].click();```
 
